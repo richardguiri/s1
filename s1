@@ -1,4 +1,76 @@
 #EXTM3U
+#EXTINF:-1,group-title="The Last of Us (2023)9.6"
+acestream://5acb44f11b6c959043c1811da10e50098d0bb8b0
+#EXTINF:-1,group-title="Cristo y Rey (2023)6.9"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x01
+acestream://9ee47ff1dd1dd6d5972000aa85addf692079191b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x02
+acestream://14724a1b45c184258b8948ed4e1590e07edc8797
+#EXTINF:-1,group-title="Madoff El Monstruo de Wall Street (2023)7.3"
+#EXTINF:-1,tvg-logo="https://www.hispashare.org/images/cover.php?id=38888",group-title="Madoff El Monstruo de Wall Street (2023)7.3",Madoff El Monstruo de Wall Street 1x01
+acestream://08730456a5967d351495afa8f1bb9a0a8b0faa36
+#EXTINF:-1,tvg-logo="https://www.hispashare.org/images/cover.php?id=38888",group-title="Madoff El Monstruo de Wall Street (2023)7.3",Madoff El Monstruo de Wall Street 1x02
+acestream://0104c2c845bc6fd1edc17a568da01224e41efb07
+#EXTINF:-1,tvg-logo="https://www.hispashare.org/images/cover.php?id=38888",group-title="Madoff El Monstruo de Wall Street (2023)7.3",Madoff El Monstruo de Wall Street 1x03
+acestream://7152cf3d65fa8da0c74ecd236a426c38e033d376
+#EXTINF:-1,tvg-logo="https://www.hispashare.org/images/cover.php?id=38888",group-title="Madoff El Monstruo de Wall Street (2023)7.3",Madoff El Monstruo de Wall Street 1x04
+acestream://7152cf3d65fa8da0c74ecd236a426c38e033d376
+#EXTINF:-1,group-title="Your Honor (2020)7.6"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x01
+acestream://5d6a9a716814bced25fdf1617d3ca6b49e78d030
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x02
+acestream://7c7535f1261fa7eb43ac6d9b822b6a4cdef289e0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x03
+acestream://9ae07696caaed930ba103977c0944d6a50f1019b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x04
+acestream://4adabf5ae208dd5a3beb445a59a1e1215fa5bdf8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x05
+acestream://65c6eb0e0c385f1858538794f1abbc8e1f05317a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x06
+acestream://103a9c12dc1b11e2a328c74f1101002caa7e1ec0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x07
+acestream://7279eaceed37a684b1e37c3c2045c0a4e215b810
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x08
+acestream://649ed3061174ac1293cd85240156606490bb6296
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x09
+acestream://5c1b996bd3e287c0c908d4e142cc4e64a2c98f06
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 1x10
+acestream://fdfba65e8250e310f08fec0531c1815c9eb663d8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 2x01
+acestream://91ff0b309fc90fb9235d4559f2a4ad5fb9042910
+#EXTINF:-1,group-title="Vikingos: Valhalla(2022)"
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X01 
+acestream://c79fa58e888c4f941c93a5858ec98ec0ffe8e166
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X02 
+acestream://cda1fa9991cd421ee19878848e7447602441f592
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X03 
+acestream://afe1fa25eca5835b6128193dea1dff79da7c073d
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X04 
+acestream://1125643af9c2d252127d20fb49f8d91e0d22ff57
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X05 
+acestream://3cd93cc336c1a50a05147e6dd8a902d0fece5b4d
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X06 
+acestream://5df6ab4249a80d1d6590d2d644375086baed4b4a
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X07 
+acestream://61ee5735b08fe6fa1f8891d143936ea6a7e35b01
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X08 
+acestream://37c6f7ba6f571a9f15b28723dfab3428763c0770
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 2X01
+acestream://376f4859063ab219e43a3073bf425c0bc5ff4371
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 2X02
+acestream://cd109be74725cfa6fcb9c30a8ae7efbf55ac9b86
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 2X03
+acestream://ce3732b9f9fc16ca8279c131468cf09681f5742b
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 2X04
+acestream://cd7555301579e9166b80912ac1a85b9960e84a39
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 2X05
+acestream://cd7555301579e9166b80912ac1a85b9960e84a39
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 2X06
+acestream://cd7555301579e9166b80912ac1a85b9960e84a39
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 2X07
+acestream://9a0721f30f01ab9f3a6cde2821e747c15096686f
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 2X08
+acestream://2898ac03e0a76ad71bb752e2333b3caefb6a71b9
 #EXTINF:-1,group-title="Machos alfa (2023)7.2"
 #EXTINF:-1,tvg-logo="https://www.moviemeter.nl/series/images/cover/26000/26554.jpg",group-title="Machos alfa (2023)7.2",Machos alfa 1x01
 acestream://821cd283122fd0587653389324269e87616a2c0b
