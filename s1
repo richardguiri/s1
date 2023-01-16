@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1,group-title="The Last of Us (2023)9.6"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Last of Us (2023)9.6",The Last of Us 1x01
 acestream://5acb44f11b6c959043c1811da10e50098d0bb8b0
 #EXTINF:-1,group-title="Cristo y Rey (2023)6.9"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x01
