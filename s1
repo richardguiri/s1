@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1,group-title="Arny Historia De Una Infamia (2023)7.4"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE0NTllYjQtZTdkYS00MmQ2LThjYTYtNTJiZGFmNzQzYTJkXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_FMjpg_UX1000_.jpg",group-title="Arny Historia De Una Infamia (2023)7.4",Arny Historia De Una Infamia 1x01
+acestream://27c6935d1ceb9049e21b31b2c49d8dc69166c16b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE0NTllYjQtZTdkYS00MmQ2LThjYTYtNTJiZGFmNzQzYTJkXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_FMjpg_UX1000_.jpg",group-title="Arny Historia De Una Infamia (2023)7.4",Arny Historia De Una Infamia 1x02
+acestream://55515488b2b9a7d62b6ffe9ac07780ec2a7c6f9a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE0NTllYjQtZTdkYS00MmQ2LThjYTYtNTJiZGFmNzQzYTJkXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_FMjpg_UX1000_.jpg",group-title="Arny Historia De Una Infamia (2023)7.4",Arny Historia De Una Infamia 1x03
+acestream://e9b4e83a67e8db7fcfc3489305523c37bd03a4e2
 #EXTINF:-1,group-title="Velma (2023)5.3"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0MDEzNDctOWI5YS00OTc4LWIyZDAtMGVkZDAzNzBiYjFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Velma (2023)5.3",Velma 1x01
 acestream://63d15f0c271db7b7ae924480cfcbd441b806f6f6
@@ -68,11 +75,15 @@ acestream://4e30cc56cda8003b28118e17e3a529d2a5cb9f42
 #EXTINF:-1,group-title="The Last of Us (2023)9.6"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Last of Us (2023)9.6",The Last of Us 1x01
 acestream://5acb44f11b6c959043c1811da10e50098d0bb8b0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Last of Us (2023)9.6",The Last of Us 1x02
+acestream://d3f2e1d545a602c711e6765d15c8f8c6c8f5af81
 #EXTINF:-1,group-title="Cristo y Rey (2023)6.9"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x01
 acestream://9ee47ff1dd1dd6d5972000aa85addf692079191b
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x02
 acestream://14724a1b45c184258b8948ed4e1590e07edc8797
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x03
+acestream://698ca01a9f9a77ecff1dd1a426f01ccc1a47073a
 #EXTINF:-1,group-title="Madoff El Monstruo de Wall Street (2023)7.3"
 #EXTINF:-1,tvg-logo="https://www.hispashare.org/images/cover.php?id=38888",group-title="Madoff El Monstruo de Wall Street (2023)7.3",Madoff El Monstruo de Wall Street 1x01
 acestream://08730456a5967d351495afa8f1bb9a0a8b0faa36
@@ -105,6 +116,8 @@ acestream://5c1b996bd3e287c0c908d4e142cc4e64a2c98f06
 acestream://fdfba65e8250e310f08fec0531c1815c9eb663d8
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 2x01
 acestream://91ff0b309fc90fb9235d4559f2a4ad5fb9042910
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 2x02
+acestream://d71acc194323b860d718e9134c11f45d73cbd168
 #EXTINF:-1,group-title="Vikingos: Valhalla(2022)"
 #EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X01 
 acestream://c79fa58e888c4f941c93a5858ec98ec0ffe8e166
