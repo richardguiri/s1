@@ -1,4 +1,35 @@
 #EXTM3U
+#EXTINF:-1,group-title="The Lazarus Project(2022)7.1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE4ODZhNTMtYTYyYi00N2JmLTllMDUtMjVlNDRiNTRiYWNhXkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Lazarus Project(2022)7.1",The Lazarus Project 1x01
+acestream://faaf0bef5119f8b84e515d0f9a0a4c4d16a2b27d
+#EXTINF:-1,group-title="La chica de nieve (2023)7.9"
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/VKYHapGIgJm__QEA3PHTdriiTf2UXjYOq1wKWjchoIoFOwuFsA2KWXduIYw8O5j8kLw1glPYcYsF58BTYNyN_ZzhXDUkfbjwz00s1nJQRACMfxFQ8cdFWS9nwZ_TM3cirTPXE8BPe9M=w2400",group-title="La chica de nieve (2023)7.9",La chica de nieve 1x01
+acestream://5c1c4ba0bfb5ebc067d7c98f7e39a625d19dbc62
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/VKYHapGIgJm__QEA3PHTdriiTf2UXjYOq1wKWjchoIoFOwuFsA2KWXduIYw8O5j8kLw1glPYcYsF58BTYNyN_ZzhXDUkfbjwz00s1nJQRACMfxFQ8cdFWS9nwZ_TM3cirTPXE8BPe9M=w2400",group-title="La chica de nieve (2023)7.9",La chica de nieve 1x02
+acestream://edbbc7c1eeef904055e346a930dadbc2ed4893ff
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/VKYHapGIgJm__QEA3PHTdriiTf2UXjYOq1wKWjchoIoFOwuFsA2KWXduIYw8O5j8kLw1glPYcYsF58BTYNyN_ZzhXDUkfbjwz00s1nJQRACMfxFQ8cdFWS9nwZ_TM3cirTPXE8BPe9M=w2400",group-title="La chica de nieve (2023)7.9",La chica de nieve 1x03
+acestream://aad3fcc7f8eb797e499f648675655f0d0b513f6b
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/VKYHapGIgJm__QEA3PHTdriiTf2UXjYOq1wKWjchoIoFOwuFsA2KWXduIYw8O5j8kLw1glPYcYsF58BTYNyN_ZzhXDUkfbjwz00s1nJQRACMfxFQ8cdFWS9nwZ_TM3cirTPXE8BPe9M=w2400",group-title="La chica de nieve (2023)7.9",La chica de nieve 1x04
+acestream://f76115afbb0993ed25df5ae5b379128da72be038
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/VKYHapGIgJm__QEA3PHTdriiTf2UXjYOq1wKWjchoIoFOwuFsA2KWXduIYw8O5j8kLw1glPYcYsF58BTYNyN_ZzhXDUkfbjwz00s1nJQRACMfxFQ8cdFWS9nwZ_TM3cirTPXE8BPe9M=w2400",group-title="La chica de nieve (2023)7.9",La chica de nieve 1x05
+acestream://ee83d4151006bbc091ecb587134b8f623045a498
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/VKYHapGIgJm__QEA3PHTdriiTf2UXjYOq1wKWjchoIoFOwuFsA2KWXduIYw8O5j8kLw1glPYcYsF58BTYNyN_ZzhXDUkfbjwz00s1nJQRACMfxFQ8cdFWS9nwZ_TM3cirTPXE8BPe9M=w2400",group-title="La chica de nieve (2023)7.9",La chica de nieve 1x06
+acestream://c85d877d229dc54fce5616fedc99e02fc55d6a35
+#EXTINF:-1,group-title="Supernormal"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/16/16/55/0178053.jpg",group-title="Supernormal",Supernormal T1completa
+acestream://3af0bfbfc5294f4579c85e10ab31a7d568a53bda
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/16/16/55/0178053.jpg",group-title="Supernormal",Supernormal 2x01
+acestream://e943512d746d9c230a6139e7ddf8babfad99d3cd
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/16/16/55/0178053.jpg",group-title="Supernormal",Supernormal 2x02
+acestream://dacd48ec0fc3e4bd6c60ffc58e9d3a66e06bc7ba
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/16/16/55/0178053.jpg",group-title="Supernormal",Supernormal 2x03
+acestream://253554102ad15d7a03c14f181ec339a4662d609e
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/16/16/55/0178053.jpg",group-title="Supernormal",Supernormal 2x04
+acestream://374fd5ec2d8784e8893a588e301a89c35e181557
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/16/16/55/0178053.jpg",group-title="Supernormal",Supernormal 2x05
+acestream://2a82d4611f7fd9f03fe72adfd6e4acf62115db12
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/16/16/55/0178053.jpg",group-title="Supernormal",Supernormal 2x06
+acestream://6e2c847bafc456a5769a8f68e62e66271f3c9a91
 #EXTINF:-1,group-title="Arny Historia De Una Infamia (2023)7.4"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE0NTllYjQtZTdkYS00MmQ2LThjYTYtNTJiZGFmNzQzYTJkXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_FMjpg_UX1000_.jpg",group-title="Arny Historia De Una Infamia (2023)7.4",Arny Historia De Una Infamia 1x01
 acestream://27c6935d1ceb9049e21b31b2c49d8dc69166c16b
@@ -11,11 +42,23 @@ acestream://e9b4e83a67e8db7fcfc3489305523c37bd03a4e2
 acestream://63d15f0c271db7b7ae924480cfcbd441b806f6f6
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0MDEzNDctOWI5YS00OTc4LWIyZDAtMGVkZDAzNzBiYjFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Velma (2023)5.3",Velma 1x02
 acestream://99cbc19f664e7d00b7d7bb215c925535f0472014
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0MDEzNDctOWI5YS00OTc4LWIyZDAtMGVkZDAzNzBiYjFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Velma (2023)5.3",Velma 1x03
+acestream://d1b0bfb03c0ef487bfa7b681578bea581faaeeb6
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0MDEzNDctOWI5YS00OTc4LWIyZDAtMGVkZDAzNzBiYjFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Velma (2023)5.3",Velma 1x04
+acestream://939fd6c7a7d2419244e1f7e6e1744163e5b7481a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0MDEzNDctOWI5YS00OTc4LWIyZDAtMGVkZDAzNzBiYjFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Velma (2023)5.3",Velma 1x05
+acestream://673836b95f913aee8ab4c9ddd2f3c49b51adcd93
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0MDEzNDctOWI5YS00OTc4LWIyZDAtMGVkZDAzNzBiYjFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Velma (2023)5.3",Velma 1x06
+acestream://ca858f82d054e7fb0e2aea20dd1276217bdd6c88
 #EXTINF:-1,group-title="Reginald the Vampire (2022)6.3"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMTEwNzctZGMzYS00NDRjLTk5ZWMtODQzYWI0YTA4MjZjXkEyXkFqcGdeQXVyNzU0NzM1Mzg@._V1_FMjpg_UX1000_.jpg",group-title="Reginald the Vampire (2022)6.3",Reginald the Vampire 1x01
 acestream://48f464dceb0ca643ec8887b5e918223bbd0d0436
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMTEwNzctZGMzYS00NDRjLTk5ZWMtODQzYWI0YTA4MjZjXkEyXkFqcGdeQXVyNzU0NzM1Mzg@._V1_FMjpg_UX1000_.jpg",group-title="Reginald the Vampire (2022)6.3",Reginald the Vampire 1x02
 acestream://05167ef4f573c573309b4d212e0f1918c6ef38ae
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMTEwNzctZGMzYS00NDRjLTk5ZWMtODQzYWI0YTA4MjZjXkEyXkFqcGdeQXVyNzU0NzM1Mzg@._V1_FMjpg_UX1000_.jpg",group-title="Reginald the Vampire (2022)6.3",Reginald the Vampire 1x03
+acestream://d639be28a9710d2d674e1e4f4ab92d76dbd7926f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMTEwNzctZGMzYS00NDRjLTk5ZWMtODQzYWI0YTA4MjZjXkEyXkFqcGdeQXVyNzU0NzM1Mzg@._V1_FMjpg_UX1000_.jpg",group-title="Reginald the Vampire (2022)6.3",Reginald the Vampire 1x04
+acestream://79dcb19f43327e8f03e7a9f7fbb1ab0190bab960
 #EXTINF:-1,group-title="Hunters (2020)7.3"
 #EXTINF:-1,tvg-logo="https://resizing.flixster.com/UsNJCo9BRiq7PdJHVszzl0ssOBI=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjYzNTcyMS53ZWJw",group-title="Hunters (2020)7.3",Hunters T1 completa
 acestream://eb1a083b01b18aecce7be436cdfabed25ef67dec
@@ -77,6 +120,8 @@ acestream://4e30cc56cda8003b28118e17e3a529d2a5cb9f42
 acestream://5acb44f11b6c959043c1811da10e50098d0bb8b0
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Last of Us (2023)9.6",The Last of Us 1x02
 acestream://d3f2e1d545a602c711e6765d15c8f8c6c8f5af81
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Last of Us (2023)9.6",The Last of Us 1x03
+acestream://727f14cd6d8c957c44a6c802d7a8ba670ab2d007
 #EXTINF:-1,group-title="Cristo y Rey (2023)6.9"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x01
 acestream://9ee47ff1dd1dd6d5972000aa85addf692079191b
@@ -84,6 +129,8 @@ acestream://9ee47ff1dd1dd6d5972000aa85addf692079191b
 acestream://14724a1b45c184258b8948ed4e1590e07edc8797
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x03
 acestream://698ca01a9f9a77ecff1dd1a426f01ccc1a47073a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x04
+acestream://8d1abc28dba91596218d4a16f62b3eb7e763a5ca
 #EXTINF:-1,group-title="Madoff El Monstruo de Wall Street (2023)7.3"
 #EXTINF:-1,tvg-logo="https://www.hispashare.org/images/cover.php?id=38888",group-title="Madoff El Monstruo de Wall Street (2023)7.3",Madoff El Monstruo de Wall Street 1x01
 acestream://08730456a5967d351495afa8f1bb9a0a8b0faa36
@@ -118,6 +165,8 @@ acestream://fdfba65e8250e310f08fec0531c1815c9eb663d8
 acestream://91ff0b309fc90fb9235d4559f2a4ad5fb9042910
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 2x02
 acestream://d71acc194323b860d718e9134c11f45d73cbd168
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 2x03
+acestream://a15b317c01d9b8ea754959cdb465162711c5570b
 #EXTINF:-1,group-title="Vikingos: Valhalla(2022)"
 #EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X01 
 acestream://c79fa58e888c4f941c93a5858ec98ec0ffe8e166
