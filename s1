@@ -1,13 +1,44 @@
 #EXTM3U
+#EXTINF:-1,group-title="La Granja de Clarkson (2021)9.0"
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 1x01 al 04
+acestream://17a4b25b1c860d08b610e33fc876cc136fe4f82b
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 1x05 al 08
+acestream://62ebe2ff5af38fef502bf7ec52146634f36001ec
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 2x01
+acestream://c49674e4e6eddc6a5908b0a7887810fcf0fadf9e
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 2x02
+acestream://7da960ef552768cc1f55c1298cf2e5c3b237640d
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 2x03
+acestream://c9736ff31510d46cae0e5bd8fc4da163d4fb6680
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 2x04
+acestream://32e1d630daba629619be9166376be4769f72e809
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 2x05
+acestream://59ed7a48fc169280dde07094001423c98a100b60
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 2x06
+acestream://2844bf216ebe24130e96b5fe37163107ef1daeac
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 2x07
+acestream://50c9da1ce226cc0c2d864410364f48f5249bc9fa
+#EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 2x08
+acestream://0dd68d1d2caff04edb1938c185165903608bc2b9
 #EXTINF:-1,group-title="Operación Marea Negra(2022)7.6
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea Negra 1X01 
 acestream://5f3679a9de1e300ba99f5bce8281b285c8500719
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea Negra 1X02 
 acestream://5f3679a9de1e300ba99f5bce8281b285c8500719
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea Negra 1X03 
 acestream://6b0539b67e3d23a14f3be9d37ec46d1103fe5994
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea Negra 1X04 
 acestream://6b0539b67e3d23a14f3be9d37ec46d1103fe5994
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea Negra 2x01
+acestream://f28703dea71c0a184ece46a0492c703eaf3df4e2
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea Negra 2x02
+acestream://417f1ccb57b2f9ad86c2eb16982737640cc95757
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea Negra 2x03
+acestream://49bc3cfade5dd2fa078b4594a9252291a96e02ed
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea Negra 2x04
+acestream://1ecda969f3eed2d549df500c7f51064e02b2787b
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea Negra 2x05
+acestream://bb98ae3cf6ce879e82aae0d11c394e7073f8949b
 #EXTINF:-1,group-title="parentesco (2022)7.4"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA5NTRiNWYtNThhNi00Mjg3LWE4M2QtMGE1YmRlMTJlMzE3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",group-title="parentesco (2022)7.4",parentesco 1x01
 acestream://f72db64c89baf3863d3df7665f6933d99d3e5b3f
@@ -288,6 +319,8 @@ acestream://d71acc194323b860d718e9134c11f45d73cbd168
 acestream://a15b317c01d9b8ea754959cdb465162711c5570b
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 2x04
 acestream://0c59cd90461ada65e367b6862da860fdf20e2a48
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0MzU0YWItYzFjNy00NWI2LTg2N2QtYjFiOTgyMzk1NDQyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",Your Honor 2x05
+acestream://7e7b22aaa6d7fd757ece55bbde854803176a2114
 #EXTINF:-1,group-title="Vikingos: Valhalla(2022)"
 #EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X01 
 acestream://c79fa58e888c4f941c93a5858ec98ec0ffe8e166
