@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1,group-title="Operación Marea Negra(2022)7.6
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea 1X01 
+acestream://5f3679a9de1e300ba99f5bce8281b285c8500719
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea 1X02 
+acestream://5f3679a9de1e300ba99f5bce8281b285c8500719
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea 1X03 
+acestream://6b0539b67e3d23a14f3be9d37ec46d1103fe5994
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea 1X04 
+acestream://6b0539b67e3d23a14f3be9d37ec46d1103fe5994
 #EXTINF:-1,group-title="parentesco (2022)7.4"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA5NTRiNWYtNThhNi00Mjg3LWE4M2QtMGE1YmRlMTJlMzE3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",group-title="parentesco (2022)7.4",parentesco 1x01
 acestream://f72db64c89baf3863d3df7665f6933d99d3e5b3f
@@ -69,6 +78,8 @@ acestream://fd39dadb07162ed76e7d963e80b1192767e5461d
 acestream://476094577b2333ea444821669e481f4ec4aadb15
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNTY1MmYtMDBhOS00YjU5LWEwYWItOWRkMGZlMjU2ZWFlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="Escandalo relato de una obsesion (2023)6.6",Escandalo relato de una obsesion 1x04
 acestream://2c39f05f7dcb426222de9503f6ae7cb1a627fa0d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNTY1MmYtMDBhOS00YjU5LWEwYWItOWRkMGZlMjU2ZWFlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="Escandalo relato de una obsesion (2023)6.6",Escandalo relato de una obsesion 1x05
+acestream://21c3b4f6705b3f474cb630f0c84335c43abf164d
 #EXTINF:-1,group-title="Fleishman esta en apuros (2022)7.6"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVkOTUyM2QtZjc4Mi00MjQzLTk1NGItMWJiMjQwZTcyNzI4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",group-title="Fleishman esta en apuros (2022)7.6",Fleishman esta en apuros 1x01
 acestream://2088bada765b0d3efcd07488fabfc45fe2bb3e96
@@ -148,6 +159,10 @@ acestream://ca858f82d054e7fb0e2aea20dd1276217bdd6c88
 acestream://4634938d61c500e4e118904e23c33825ca420e5c
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0MDEzNDctOWI5YS00OTc4LWIyZDAtMGVkZDAzNzBiYjFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Velma (2023)5.3",Velma 1x08
 acestream://3774347d8edf627190608487ab6d286cc058cfe4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0MDEzNDctOWI5YS00OTc4LWIyZDAtMGVkZDAzNzBiYjFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Velma (2023)5.3",Velma 1x09
+acestream://bfbdb6919deea67f4aca3a0a335d5205ab32050d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0MDEzNDctOWI5YS00OTc4LWIyZDAtMGVkZDAzNzBiYjFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Velma (2023)5.3",Velma 1x10
+acestream://52b84f0e03de47f0c5dfc6524edc8382ae2317a5
 #EXTINF:-1,group-title="Reginald the Vampire (2022)6.3"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMTEwNzctZGMzYS00NDRjLTk5ZWMtODQzYWI0YTA4MjZjXkEyXkFqcGdeQXVyNzU0NzM1Mzg@._V1_FMjpg_UX1000_.jpg",group-title="Reginald the Vampire (2022)6.3",Reginald the Vampire 1x01
 acestream://48f464dceb0ca643ec8887b5e918223bbd0d0436
