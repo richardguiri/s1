@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,group-title="La Espada de Indurain (2023)6.3"
+#EXTINF:-1,tvg-logo="https://www.movistarplus.es/recorte/n/fichaPeque/F4074434",group-title="La Espada de Indurain (2023)6.3",La Espada de Indurain 1x01
+acestream://ba4107910274f945fed62b981983387295b8d635
+#EXTINF:-1,group-title="Cardo(2021)"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X01 
+acestream://4424f683963ce8743c4b6369378c2be35d627a83
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X02 
+acestream://5633eade7a65064daa2c7dd6b916495a60f531d1
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X03 
+acestream://c247ef67494538bab2a6b2b8e7465a7ae7736cbf
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X04 
+acestream://0caa02b51b97dc9bb36fc2268422239141a578e6
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X05 
+acestream://a7c759f71caa4244de801e95ce8e5eabfe0c84fe
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X06 
+acestream://90c9438ebe07c7bf0638f186b8d33df5267b8bbd
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 2x01
+acestream://cd8692e13fca6e3116a19a653ea391a74473a298
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 2x02
+acestream://747f7ede0ae9916de9d958a3e209c97523414298
 #EXTINF:-1,group-title="La Granja de Clarkson (2021)9.0"
 #EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 1x01 al 04
 acestream://17a4b25b1c860d08b610e33fc876cc136fe4f82b
@@ -100,6 +120,8 @@ acestream://25e55c1139d7ed33e01faaf04829232e72a8da0a
 acestream://1ea02b71afc72c11b76b4974e8ef974ce5a3288e
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzMTIzZjQtYzAzZS00YTBiLThkYzgtMzZmZGVlNDkxZGVlXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_.jpg",group-title="Los Winchester (2022)7.0",Los Winchester 1x09
 acestream://8554a40ce3fe1711833ba73d8ea1e1bbcdee5781
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzMTIzZjQtYzAzZS00YTBiLThkYzgtMzZmZGVlNDkxZGVlXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_.jpg",group-title="Los Winchester (2022)7.0",Los Winchester 1x10
+acestream://e5de9f5a058643986151fbe39db3a8e3c3934db0
 #EXTINF:-1,group-title="Escandalo relato de una obsesion (2023)6.6"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNTY1MmYtMDBhOS00YjU5LWEwYWItOWRkMGZlMjU2ZWFlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="Escandalo relato de una obsesion (2023)6.6",Escandalo relato de una obsesion 1x01
 acestream://a1932fa16e5e58eaf6bb86e323a390a3ca29a98e
@@ -118,6 +140,10 @@ acestream://2088bada765b0d3efcd07488fabfc45fe2bb3e96
 acestream://82439a4186ff6996359c7d71c0a696ae0c6e7a1f
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVkOTUyM2QtZjc4Mi00MjQzLTk1NGItMWJiMjQwZTcyNzI4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",group-title="Fleishman esta en apuros (2022)7.6",Fleishman esta en apuros 1x03
 acestream://f04896ace88a7111cc2423e78c34fb3a46cf9ee8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVkOTUyM2QtZjc4Mi00MjQzLTk1NGItMWJiMjQwZTcyNzI4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",group-title="Fleishman esta en apuros (2022)7.6",Fleishman esta en apuros 1x04
+acestream://a2d49f72a81c848a7f589bd59e5ff34fd56a705a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVkOTUyM2QtZjc4Mi00MjQzLTk1NGItMWJiMjQwZTcyNzI4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",group-title="Fleishman esta en apuros (2022)7.6",Fleishman esta en apuros 1x05
+acestream://820da432c3105accf11566ae980507e725d92396
 #EXTINF:-1,group-title="Traitors España (2023)6.1"
 #EXTINF:-1,tvg-logo="https://www.formulatv.com/images/programas/posters/2000/2035/dest_1.jpg",group-title="Traitors España (2023)6.1",Traitors España 1x01
 acestream://9a31a788e6a0028be9c241cd2c82633a153cf4af
@@ -205,6 +231,8 @@ acestream://d639be28a9710d2d674e1e4f4ab92d76dbd7926f
 acestream://79dcb19f43327e8f03e7a9f7fbb1ab0190bab960
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMTEwNzctZGMzYS00NDRjLTk5ZWMtODQzYWI0YTA4MjZjXkEyXkFqcGdeQXVyNzU0NzM1Mzg@._V1_FMjpg_UX1000_.jpg",group-title="Reginald the Vampire (2022)6.3",Reginald the Vampire 1x05
 acestream://e7ae5e9badb330436a61f85aa6fb6e3245418230
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMTEwNzctZGMzYS00NDRjLTk5ZWMtODQzYWI0YTA4MjZjXkEyXkFqcGdeQXVyNzU0NzM1Mzg@._V1_FMjpg_UX1000_.jpg",group-title="Reginald the Vampire (2022)6.3",Reginald the Vampire 1x06
+acestream://19f78a1d4991e007ec29dfecbf3f0c5e47d3254a
 #EXTINF:-1,group-title="Hunters (2020)7.3"
 #EXTINF:-1,tvg-logo="https://resizing.flixster.com/UsNJCo9BRiq7PdJHVszzl0ssOBI=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjYzNTcyMS53ZWJw",group-title="Hunters (2020)7.3",Hunters T1 completa
 acestream://eb1a083b01b18aecce7be436cdfabed25ef67dec
@@ -270,6 +298,8 @@ acestream://d3f2e1d545a602c711e6765d15c8f8c6c8f5af81
 acestream://727f14cd6d8c957c44a6c802d7a8ba670ab2d007
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Last of Us (2023)9.6",The Last of Us 1x04
 acestream://19e8720dadf24c013abe36125b82d034e021779b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Last of Us (2023)9.6",The Last of Us 1x05
+acestream://6b613d62eb7c7f13d855c2a6b23989f5be40a9e3
 #EXTINF:-1,group-title="Cristo y Rey (2023)6.9"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x01
 acestream://9ee47ff1dd1dd6d5972000aa85addf692079191b
@@ -281,6 +311,8 @@ acestream://698ca01a9f9a77ecff1dd1a426f01ccc1a47073a
 acestream://8d1abc28dba91596218d4a16f62b3eb7e763a5ca
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x05
 acestream://ea95ed3918ad77ea97da22a5a55b62831518c653
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x06
+acestream://9022b36b9939c370f156ccd87edbcef1ec8a130a
 #EXTINF:-1,group-title="Madoff El Monstruo de Wall Street (2023)7.3"
 #EXTINF:-1,tvg-logo="https://www.hispashare.org/images/cover.php?id=38888",group-title="Madoff El Monstruo de Wall Street (2023)7.3",Madoff El Monstruo de Wall Street 1x01
 acestream://08730456a5967d351495afa8f1bb9a0a8b0faa36
