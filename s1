@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,group-title="Rain Dogs (2023)6.5"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZmZjBkYjMtNDJjYy00MmJiLThjNWItODZkMmI2OGJiNGRiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",group-title="Rain Dogs (2023)6.5",Rain Dogs 1x01
+acestream://2355697b38dfce4e8493d59f1b8c0f672ce0097d
+#EXTINF:-1,group-title="La Loca Historia Del Mundo Parte 2 (2023)6.2"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE1YWM2ODctMTI5Yy00Njc4LWE1MzgtMzc4ZjNlNzNkNzQ1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",group-title="La Loca Historia Del Mundo Parte 2 (2023)6.2",La Loca Historia Del Mundo Parte 2 1x01
+acestream://897742588e82337af1f6cd648d0fa80f35ca757a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE1YWM2ODctMTI5Yy00Njc4LWE1MzgtMzc4ZjNlNzNkNzQ1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",group-title="La Loca Historia Del Mundo Parte 2 (2023)6.2",La Loca Historia Del Mundo Parte 2 1x02
+acestream://344d1ac9ce9a633770427ec6b653f92059f44492
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE1YWM2ODctMTI5Yy00Njc4LWE1MzgtMzc4ZjNlNzNkNzQ1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",group-title="La Loca Historia Del Mundo Parte 2 (2023)6.2",La Loca Historia Del Mundo Parte 2 1x03
+acestream://d01e378291525107dd728070223eed84f81d45e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE1YWM2ODctMTI5Yy00Njc4LWE1MzgtMzc4ZjNlNzNkNzQ1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",group-title="La Loca Historia Del Mundo Parte 2 (2023)6.2",La Loca Historia Del Mundo Parte 2 1x04
+acestream://bfc9cefef7d6e8d4b39c988bcbb2d212c2983fd3
 #EXTINF:-1,group-title="Marc Marquez All In (2023)6.1"
 #EXTINF:-1,tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/marc-marquez-all-in-1676966242.jpg",group-title="Marc Marquez All In (2023)6.1",Marc Marquez All In 1x01
 acestream://493382a366e6f56b90207a9f9d0fccf5ae91aed0
@@ -93,6 +105,8 @@ acestream://747f7ede0ae9916de9d958a3e209c97523414298
 acestream://e5dbefbcc9f98b75a68e5ff65e97266bca7721d9
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 2x04
 acestream://53c0fe623428573e7e8ca31ef62fb670630dbbb6
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 2x05
+acestream://759e3e6e09f00ef97b6d51c056a4db44bec9a352
 #EXTINF:-1,group-title="La Granja de Clarkson (2021)9.0"
 #EXTINF:-1,tvg-logo="https://pictures.betaseries.com/fonds/poster/ee51e2f9dfac9f6825114bf21229e671.jpg",group-title="La Granja de Clarkson (2021)9.0",La Granja de Clarkson 1x01 al 04
 acestream://17a4b25b1c860d08b610e33fc876cc136fe4f82b
@@ -200,6 +214,10 @@ acestream://1ea02b71afc72c11b76b4974e8ef974ce5a3288e
 acestream://8554a40ce3fe1711833ba73d8ea1e1bbcdee5781
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzMTIzZjQtYzAzZS00YTBiLThkYzgtMzZmZGVlNDkxZGVlXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_.jpg",group-title="Los Winchester (2022)7.0",Los Winchester 1x10
 acestream://e5de9f5a058643986151fbe39db3a8e3c3934db0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzMTIzZjQtYzAzZS00YTBiLThkYzgtMzZmZGVlNDkxZGVlXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_.jpg",group-title="Los Winchester (2022)7.0",Los Winchester 1x11
+acestream://5c24d4f27f83a76341ae92fb1fc26fa74ef42f82
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzMTIzZjQtYzAzZS00YTBiLThkYzgtMzZmZGVlNDkxZGVlXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_.jpg",group-title="Los Winchester (2022)7.0",Los Winchester 1x12
+acestream://5c308ff2b3bdcbb2d7d01e6329a924a2de2c384d
 #EXTINF:-1,group-title="Escandalo relato de una obsesion (2023)6.6"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNTY1MmYtMDBhOS00YjU5LWEwYWItOWRkMGZlMjU2ZWFlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="Escandalo relato de una obsesion (2023)6.6",Escandalo relato de una obsesion 1x01
 acestream://a1932fa16e5e58eaf6bb86e323a390a3ca29a98e
@@ -325,6 +343,8 @@ acestream://19f78a1d4991e007ec29dfecbf3f0c5e47d3254a
 acestream://c87f6cf95ba0652426e5d28f0c096f84c8c7ebb6
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMTEwNzctZGMzYS00NDRjLTk5ZWMtODQzYWI0YTA4MjZjXkEyXkFqcGdeQXVyNzU0NzM1Mzg@._V1_FMjpg_UX1000_.jpg",group-title="Reginald the Vampire (2022)6.3",Reginald the Vampire 1x08
 acestream://b6bdff81b8ef9c5be6d3d2e28053f523c4469eee
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMTEwNzctZGMzYS00NDRjLTk5ZWMtODQzYWI0YTA4MjZjXkEyXkFqcGdeQXVyNzU0NzM1Mzg@._V1_FMjpg_UX1000_.jpg",group-title="Reginald the Vampire (2022)6.3",Reginald the Vampire 1x09
+acestream://96db26de1fd7f51fd571fcc92f9187d3f6a159c0
 #EXTINF:-1,group-title="Hunters (2020)7.3"
 #EXTINF:-1,tvg-logo="https://resizing.flixster.com/UsNJCo9BRiq7PdJHVszzl0ssOBI=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjYzNTcyMS53ZWJw",group-title="Hunters (2020)7.3",Hunters T1 completa
 acestream://eb1a083b01b18aecce7be436cdfabed25ef67dec
@@ -396,6 +416,8 @@ acestream://6b613d62eb7c7f13d855c2a6b23989f5be40a9e3
 acestream://1ea47d0e5a6c6036ed9f36004341bafde1224e38
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Last of Us (2023)9.6",The Last of Us 1x07
 acestream://cb22dbeb2faea400ec8a73613c1d5b75e0b1b656
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",group-title="The Last of Us (2023)9.6",The Last of Us 1x08
+acestream://365557c54b74836bfc6abfafe8134673228fd705
 #EXTINF:-1,group-title="Cristo y Rey (2023)6.9"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NjZlZjctNTg2MC00NDgzLWEwY2YtYjhiNzIwMzBhYmQzXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Cristo y Rey (2023)6.9",Cristo y Rey 1x01
 acestream://9ee47ff1dd1dd6d5972000aa85addf692079191b
@@ -779,3 +801,5 @@ acestream://ea2e90d2b3bebd70c67930590c60303187f0b613
 acestream://29f368a020711192a978ec81b4b7dff74a4982f5
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViMDJlYzEtOTUxNi00ZTU5LWI5MTYtMGViNTQ4NTVkYTMyXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_FMjpg_UX1000_.jpg",group-title="The Good Doctor (2017)8.1",The Good Doctor 6x12
 acestream://eb4c52309e326e29252be77cfd7cefd5306ab8a9
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViMDJlYzEtOTUxNi00ZTU5LWI5MTYtMGViNTQ4NTVkYTMyXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_FMjpg_UX1000_.jpg",group-title="The Good Doctor (2017)8.1",The Good Doctor 6x13
+acestream://56c7f6f26bc87c476cc922ca1898c9682a431ffc
