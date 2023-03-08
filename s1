@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1,group-title="Nacho (2023) 8.3"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYxYTUxNzgtOTBiMC00NzA1LThjYjgtNTc2YzhlY2U1ODAzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="Nacho (2023) 8.3",Nacho 1x01
+acestream://e2f76e1fa9770c89b253a1e9b4ab4c2dd84ddb6a
+#EXTINF:-1,group-title="Motel Valkirias (2023)8.0"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODRlNDJjYzgtYmEzZC00N2YwLWJiZDEtNTRkNDNjNjA4N2IyXkEyXkFqcGdeQXVyMTM3MTY2NTA3._V1_FMjpg_UX1000_.jpg",group-title="Motel Valkirias (2023)8.0",Motel Valkirias 1x01
+acestream://aa8e54e63fecd95b9bc3d7d02d10b1c01c19ecef
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODRlNDJjYzgtYmEzZC00N2YwLWJiZDEtNTRkNDNjNjA4N2IyXkEyXkFqcGdeQXVyMTM3MTY2NTA3._V1_FMjpg_UX1000_.jpg",group-title="Motel Valkirias (2023)8.0",Motel Valkirias 1x02
+acestream://e17d44c3362feb90d8aae616dc0cde597d054d70
+#EXTINF:-1,group-title="Todos quieren a Daisy Jones (2023)8.0"
+#EXTINF:-1,tvg-logo="https://kbimages1-a.akamaihd.net/ba095c55-128e-4f0a-9142-93ba7dcb2de5/1200/1200/False/daisy-jones-and-the-six-1.jpg",group-title="Todos quieren a Daisy Jones (2023)8.0",Todos quieren a Daisy Jones 1x01
+acestream://c93e3a36e312c58b6dd38513d2fa00487182ec89
+#EXTINF:-1,tvg-logo="https://kbimages1-a.akamaihd.net/ba095c55-128e-4f0a-9142-93ba7dcb2de5/1200/1200/False/daisy-jones-and-the-six-1.jpg",group-title="Todos quieren a Daisy Jones (2023)8.0",Todos quieren a Daisy Jones 1x02
+acestream://4cf28b4d326989e96814677ea122c0f6fc268dc9
+#EXTINF:-1,tvg-logo="https://kbimages1-a.akamaihd.net/ba095c55-128e-4f0a-9142-93ba7dcb2de5/1200/1200/False/daisy-jones-and-the-six-1.jpg",group-title="Todos quieren a Daisy Jones (2023)8.0",Todos quieren a Daisy Jones 1x03
+acestream://fde974de5efd54dbca1b61096d54539936d2c7fb
 #EXTINF:-1,group-title="Rain Dogs (2023)6.5"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZmZjBkYjMtNDJjYy00MmJiLThjNWItODZkMmI2OGJiNGRiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",group-title="Rain Dogs (2023)6.5",Rain Dogs 1x01
 acestream://2355697b38dfce4e8493d59f1b8c0f672ce0097d
@@ -11,6 +26,27 @@ acestream://344d1ac9ce9a633770427ec6b653f92059f44492
 acestream://d01e378291525107dd728070223eed84f81d45e
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE1YWM2ODctMTI5Yy00Njc4LWE1MzgtMzc4ZjNlNzNkNzQ1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",group-title="La Loca Historia Del Mundo Parte 2 (2023)6.2",La Loca Historia Del Mundo Parte 2 1x04
 acestream://bfc9cefef7d6e8d4b39c988bcbb2d212c2983fd3
+#EXTINF:-1,group-title="Vampire Academy (2023) 6.4"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x01
+acestream://e0b6f4d42985b2abe419467d50e2ae4966faf673
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x02
+acestream://47cc232d11c71fc75fdee626f47b1b930df03ebc
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x03
+acestream://5ee6bc126b7276458401011e83b4f2eaae23c626
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x04
+acestream://f91ca3ef44ce19cfa1f92f95cbab5514baddd40d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x05
+acestream://be24eef80e99e0903e94a3629ba0d9b8264bef1c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x06
+acestream://438be102d249e957f8d78fbfbe6f726e11dc6de1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x07
+acestream://315079fe13396d9e57833cb37539e6cec2862db3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x08
+acestream://a61f021efcccbec9fff02527d508b3c558edf558
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x09
+acestream://a3beb8f9d6aec45919926456e48f6196a1c546d3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1NzhmYTUtYWQwNy00NzNmLWJmNjktNzRlNDBiMDM4MjhkXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",group-title="Vampire Academy (2023) 6.4",Vampire Academy 1x10
+acestream://53846d6daf698dbe36f6e74e63cd9e7b94ccfb62
 #EXTINF:-1,group-title="Marc Marquez All In (2023)6.1"
 #EXTINF:-1,tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/marc-marquez-all-in-1676966242.jpg",group-title="Marc Marquez All In (2023)6.1",Marc Marquez All In 1x01
 acestream://493382a366e6f56b90207a9f9d0fccf5ae91aed0
@@ -803,3 +839,5 @@ acestream://29f368a020711192a978ec81b4b7dff74a4982f5
 acestream://eb4c52309e326e29252be77cfd7cefd5306ab8a9
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViMDJlYzEtOTUxNi00ZTU5LWI5MTYtMGViNTQ4NTVkYTMyXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_FMjpg_UX1000_.jpg",group-title="The Good Doctor (2017)8.1",The Good Doctor 6x13
 acestream://56c7f6f26bc87c476cc922ca1898c9682a431ffc
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViMDJlYzEtOTUxNi00ZTU5LWI5MTYtMGViNTQ4NTVkYTMyXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_FMjpg_UX1000_.jpg",group-title="The Good Doctor (2017)8.1",The Good Doctor 6x14
+acestream://24dc91033f2bd6c556068d8c3922747c36075675
